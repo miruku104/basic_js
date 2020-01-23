@@ -1,3 +1,12 @@
+
+//cha sua ri ca
+// sao hoc mai cha hieu ri
+// buon ngu
+//dau dau
+
+
+
+
 alert('hello world');
 // ghi chu mot comment trong mot dong 
 /* ghi chu comment dai */
